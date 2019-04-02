@@ -1,7 +1,7 @@
 # FiFa19-Futbin-
 FiFa19 奶妈级Futbin插件安装教程
 
-首先安装Tampermonkey。
+首先安装Tampermonkey。（根据你的浏览器安装不同的版本）
 
     Firefox - install Tampermonkey. https://tampermonkey.net/?ext=dhdg&browser=firefox
     
